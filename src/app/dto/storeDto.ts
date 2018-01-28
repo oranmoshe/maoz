@@ -1,8 +1,9 @@
 class StoreDto {
   name: string;
-  coordinate: CoordinateDto;
+  coordinates: CoordinateDto;
+  distance: number;
   constructor(name: string, coordinate: CoordinateDto) {
     this.name = name;
-    this.coordinate = coordinate;
+    this.coordinates = coordinate;
   }
 }

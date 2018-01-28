@@ -1,10 +1,12 @@
 [
   {
-    "name":"Haifa",
+    "name": "Haifa",
     "coordinates": {
-      "latitude":32.794044,
-      "longitude":34.989571
-    },
+      "latitude": 32.794044,
+      "longitude": 34.989571
+    }
+  },
+  {
     "name":"TelAviv",
     "coordinates":{
       "latitude":32.109333,
